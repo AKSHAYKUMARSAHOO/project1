@@ -1,0 +1,163 @@
+*{
+    
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+     
+}
+.nav{
+  /* border: 3px solid rgb(25, 2, 2); */
+background-color: rgb(29, 17, 3);
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0%;
+  position: sticky;
+  
+  
+}
+.list{
+    margin-right:83px ;
+    padding: -2%;
+    text-align: center;
+    font-weight: 500;
+}
+.li{
+    display: inline-block;
+    padding-top: 10px;
+
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+
+    margin: 25px;
+    color: azure;
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color: aqua;
+}
+.w{
+    height: 69px;
+    width: 80px;
+    float: left;
+    margin: 0%;
+       
+}
+.body1{
+    margin: 0%;
+    padding: 0%;
+    height:700px ;
+    width:100% ;
+    
+}
+img{
+    height: 700px;
+    width: 100%;
+}
+.from{
+    height: 438px;
+    width: 324px;
+    /* border: 2px solid rgb(243, 14, 14); */
+    top: 31%;
+    left: 15%;
+    
+    
+    position:absolute ;
+}
+.nmae{
+    padding: 13px;
+    margin: 8px;
+     text-align: center;
+     display: block;
+     color: aliceblue;
+}
+button{
+    padding: 7px;
+    background-color: rgb(182, 234, 39);
+    margin-left: 117px;
+    border-radius: 12px;
+    font-size: 17px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
+button:active{
+    background-color: white;
+}
+button:hover{
+    background-color: orange;
+}
+h2{
+    color: aliceblue;
+}
+input{
+    padding: 5px;
+    border-bottom: -2px white;
+    background-color: rgb(26, 5, 5);
+    margin: 2px;
+    color: aliceblue;
+    border-bottom-right-radius: 5px;
+}
+.df{
+    height: 424px;
+    width: 314px;
+    float: right;
+    margin: 40px 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 10px 5px rgb(2, 9, 11);
+}
+.container{
+    height: 600px;
+     border: 2px #951ec4d4; 
+    background-color: #951ec4d4;
+   
+}
+.containe{
+    height: 600px;
+     border: 2px #06a8e8d4;
+   
+    background-color: #06a8e8d4;
+   
+}
+.para{
+    /* border: 2px solid red; */
+    height: 140px;
+    width: 900px;
+   
+   display: block;
+   margin-left: 50px;
+
+}
+.sd{
+    color: rgb(182, 255, 48);
+    font-size: 20px;
+    padding: 10px;
+    margin: 50px;
+}
+.bb{
+    background-color: rgb(37, 37, 227);
+    color: white;
+    padding: 3px 28px;
+}
+.foot{
+    height: 400px;
+    /* border: 2px solid red; */
+     background-color: #870871d4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.kj{
+    height: 150px;
+    width: 275px;
+  /* border: 2px solid red; */
+  margin: 5px;
+  padding: 7px;
+  text-align: center;
+   margin-top: 115px;
+     
+  display: inline-block;
+}
